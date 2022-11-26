@@ -1,0 +1,45 @@
+body{
+    padding: 100px;
+}
+
+
+.box{
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgb(202, 114, 158) ;
+    padding: 30px;
+    
+   
+}
+.cot{
+    border-radius: 10px;
+    box-shadow: 1px 0px 2px rgb(11, 41, 11);
+}
+#transection-area{
+    display: none;
+}
+.deposit{
+    background-color: yellow;
+}
+.withdraw{
+    background-color: green;
+}
+.balance{
+    background-color: aquamarine;
+}
+.status{
+    box-shadow: 0px 0px 10px gray;
+    margin: 0 20px;
+    color: white;
+    padding: 30px;
+    border-radius: 20px ;
+    color: black;
+
+}
+.submit-area{
+
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray ;
+    padding: 40px;
+}
